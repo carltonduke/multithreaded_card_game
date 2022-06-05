@@ -1,8 +1,6 @@
 // NAME: Carlton Duke
-// Program 1
-// Operating Systems
-// Professor Palacios
-// LINUX COMPILE: g++ -std=c++11 -pthread Main.cpp
+// multithreaded card game
+// LINUX COMPILE: g++ -std=c++11 -pthread main.cpp
 // LINUX EXECUTE: ./a.out
 
 #include <iostream>
